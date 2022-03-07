@@ -3,7 +3,7 @@
 Project for Intro to Coding for Journalists to learn Bootstrap 5
 Due date: March 11 2022
 
-# ICJ Bootstrap Template
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
