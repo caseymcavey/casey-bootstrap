@@ -1,6 +1,7 @@
 # Casey's bootstrap class assignment
 
 Project for Intro to Coding for Journalists to learn Bootstrap 5
+
 Due date: March 11 2022
 
 ## ICJ Bootstrap Template
